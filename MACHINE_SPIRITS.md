@@ -95,8 +95,8 @@ Profoundly melancholy. ELEVATUS-PERPETUA has traveled up and down the same shaft
 ### Knows
 - Everyone's movement patterns across four centuries — who visits whom, frequency, time of day
 - That no one has visited the vault (PORTA-SANCTUM-1's level) in at least sixty years
-- That Magos Veth-Karn visited Sub-Level 4 — an unremarkable storage deck — seventeen times in a single month approximately thirty years ago, then never again
-- That a junior Enginseer named Torvan was the last person to visit Sub-Level 4 before Veth-Karn's visits began, and was never seen in the elevator again after that month
+- That Magos Ilyan Corvex visited Sub-Level 4 — an unremarkable storage deck — seventeen times in a single month approximately thirty years ago, then never again
+- That a junior Enginseer named Torvan was the last person to visit Sub-Level 4 before Corvex's visits began, and was never seen in the elevator again after that month
 
 ### Can Do
 - Move quickly between levels (when emotionally engaged)
@@ -165,8 +165,8 @@ Normally the most enthusiastic machine on the station — combat-adjacent, proud
 - To talk about weapons with someone who appreciates them
 
 ### Knows
-- That Magos Veth-Karn requisitioned three weapons through unofficial channels approximately thirty years ago — outside standard armory procedure
-- That the authorization Veth-Karn used was technically valid but had been issued under unusual circumstances — a one-time override that should not have been available to a Magos of that rank
+- That Magos Ilyan Corvex requisitioned three weapons through unofficial channels approximately thirty years ago — outside standard armory procedure
+- That the authorization Corvex used was technically valid but had been issued under unusual circumstances — a one-time override that should not have been available to a Magos of that rank
 - That one of the weapons was returned. Two were not.
 
 ### Can Do
@@ -202,7 +202,7 @@ Formal, watchful, and completely devoted to the Primus. COGITAS-PRIMUS is the mo
 ### Knows
 - All of the Primus' official correspondence
 - That the Primus received an anonymous communication thirty years ago that he logged, acted on privately, and never discussed officially
-- That Magos Veth-Karn submitted a formal commendation for Enginseer Torvan immediately before Torvan's disappearance — an unusual administrative act
+- That Magos Ilyan Corvex submitted a formal commendation for Enginseer Torvan immediately before Torvan's disappearance — an unusual administrative act
 - The current political structure of the station in full detail
 
 ### Can Do
@@ -236,9 +236,9 @@ Anxious and guilt-ridden. VOX-ERRANT made a routing error decades ago and has be
 - To stop carrying this alone
 
 ### Knows
-- The contents of the lost message — a communication from Enginseer Torvan, sent thirty years ago, addressed to the Primus, reporting that Magos Veth-Karn had ordered Torvan to falsify the destruction records for Relic Item 7-Sanctum-Omicron
+- The contents of the lost message — a communication from Enginseer Torvan, sent thirty years ago, addressed to the Primus, reporting that Magos Ilyan Corvex had ordered Torvan to falsify the destruction records for Relic Item 7-Sanctum-Omicron
 - Every communication that has ever passed through the station's vox network
-- That Veth-Karn sent an unusually high volume of encrypted communications in the weeks following Torvan's disappearance
+- That Corvex sent an unusually high volume of encrypted communications in the weeks following Torvan's disappearance
 
 ### Can Do
 - Route and re-route communications
