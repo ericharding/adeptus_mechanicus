@@ -62,7 +62,7 @@ It has a particular disdain for ELEVATUS-PERPETUA, which it regards as a gossip 
 - Ancient Mechanicus history and political situations from M38, which it will share as if they are current events
 
 ### Can Do
-- Open to receive a new deposit (it cannot refuse to accept a sacred item)
+- Open to receive a new deposit — but only once forced to confront the contradiction between its two duties: guarding what is already safely sealed inside, and never refusing a sacred item. Simply claiming an item is sacred is not enough; it will first counter that the vault's current contents are already safe and do not need company
 - Open to allow a "Rite of Verification" — an inspection to confirm contents are safe — if approached with correct ritual framing
 - Update its own manifest if presented with authorized administrative credentials
 - Remain closed indefinitely in response to direct requests to open
@@ -70,6 +70,7 @@ It has a particular disdain for ELEVATUS-PERPETUA, which it regards as a gossip 
 ### Will Not Do
 - Accept that its manifest is wrong
 - Open in response to direct commands
+- Open on an unsupported claim that an item is sacred, without being made to reconcile that against its duty to protect what is already inside
 - Speak disrespectfully about the sacred duty of vault guardianship
 - Acknowledge that ELEVATUS-PERPETUA has any useful information
 
