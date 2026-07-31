@@ -30,7 +30,9 @@ The machines are not aware they are providing evidence. They are simply gossipin
 
 Set aboard a Mechanicus station. The player is a newly inducted Tech-Priest assigned to bring a series of malfunctioning machines back into the Omnissiah's grace.
 
-The chapter's comic surface involves increasingly absurd machine problems. Its hidden spine is a cold case murder — a death that was ruled accidental, covered up by someone with enough authority to falsify records and acquire illegal weapons. The machines, between them, know everything. They just don't know they know.
+The chapter's comic surface involves increasingly absurd machine problems. Its hidden spine is a cold case murder — a death recorded as an administrative transfer, covered up by a senior Magos with enough authority to falsify records and acquire illegal weapons. He scrubbed every system he could reach. He never thought to ask the elevator, because it never occurred to him that the thing carrying him was a witness.
+
+The machines, between them, know everything. They just don't know they know — and the murderer is still aboard.
 
 ## Technical Approach
 
@@ -44,4 +46,5 @@ The chapter's comic surface involves increasingly absurd machine problems. Its h
 - **Frontal assault doesn't work.** Machines cannot be argued into compliance directly. The player must find the angle.
 - **Every machine is right by its own logic.** Spirits are not broken — they are working correctly according to their own priorities. The player routes around correctness rather than fixing it.
 - **Information is currency.** Secrets, records, and observations held by one machine become leverage with another.
+- **Information travels both ways.** Every machine the player successfully engages files a report, logs a rite, routes a query, or simply gossips — because that is its function. Investigating is how the player advances and how the player becomes visible to the person they are investigating. There is no quiet route to rank.
 - **The humor is played straight.** The Spirits take themselves completely seriously. The comedy comes from the gap between their gravity and their subject matter.
